@@ -29,6 +29,9 @@
 		},
 		{
 			"path": "java-10"
+		},
+		{
+			"path": "java-11"
 		}
 	],
 	"settings": {}
