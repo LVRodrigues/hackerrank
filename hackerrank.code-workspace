@@ -35,6 +35,9 @@
 		},
 		{
 			"path": "java-12"
+		},
+		{
+			"path": "java-13"
 		}
 	],
 	"settings": {}
