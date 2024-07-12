@@ -1,1 +1,1 @@
-# JJava Substring
+# Java Substring
