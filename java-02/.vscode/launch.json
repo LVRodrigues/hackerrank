@@ -10,7 +10,11 @@
             "request": "launch",
             "mainClass": "Solution",
             "projectName": "java-02_cedceead",
-            "args": ["<", "${workspaceFolder}/params.txt"]
+            "args": ["<", "${workspaceFolder}/params.txt"],
+            "vmArgs": [
+                "-Duser.language=en",
+                "-Duser.country=US"
+            ]
         }
     ]
 }
