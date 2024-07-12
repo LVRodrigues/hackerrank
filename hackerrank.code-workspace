@@ -38,6 +38,9 @@
 		},
 		{
 			"path": "java-13"
+		},
+		{
+			"path": "java-14"
 		}
 	],
 	"settings": {}
