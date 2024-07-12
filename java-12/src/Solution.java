@@ -1,14 +1,11 @@
-import java.io.*;
-import java.math.*;
-import java.security.*;
-import java.text.*;
-import java.util.*;
-import java.util.concurrent.*;
-import java.util.function.*;
-import java.util.regex.*;
-import java.util.stream.*;
-import static java.util.stream.Collectors.joining;
-import static java.util.stream.Collectors.toList;
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.Calendar;
+import java.util.GregorianCalendar;
+import java.util.Locale;
 
 class Result {
 
@@ -17,13 +14,13 @@ class Result {
      *
      * The function is expected to return a STRING.
      * The function accepts following parameters:
-     *  1. INTEGER month
-     *  2. INTEGER day
-     *  3. INTEGER year
+     * 1. INTEGER month
+     * 2. INTEGER day
+     * 3. INTEGER year
      */
 
     public static String findDay(int month, int day, int year) {
-        Calendar calendar = new GregorianCalendar(year, month-1, day);
+        Calendar calendar = new GregorianCalendar(year, month - 1, day);
         return calendar.getDisplayName(Calendar.DAY_OF_WEEK, Calendar.LONG, Locale.getDefault()).toUpperCase();
     }
 
