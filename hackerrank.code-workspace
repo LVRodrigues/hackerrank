@@ -44,6 +44,9 @@
 		},
 		{
 			"path": "java-15"
+		},
+		{
+			"path": "java-16"
 		}
 	],
 	"settings": {}
