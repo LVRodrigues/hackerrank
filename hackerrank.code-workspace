@@ -23,6 +23,9 @@
 		},
 		{
 			"path": "java-08"
+		},
+		{
+			"path": "java-09"
 		}
 	],
 	"settings": {}
