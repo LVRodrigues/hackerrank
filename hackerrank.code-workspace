@@ -50,6 +50,9 @@
 		},
 		{
 			"path": "java-17"
+		},
+		{
+			"path": "java-18"
 		}
 	],
 	"settings": {}
