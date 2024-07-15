@@ -53,6 +53,9 @@
 		},
 		{
 			"path": "java-18"
+		},
+		{
+			"path": "java-19"
 		}
 	],
 	"settings": {}
