@@ -59,6 +59,9 @@
 		},
 		{
 			"path": "java-20"
+		},
+		{
+			"path": "java-21"
 		}
 	],
 	"settings": {}
