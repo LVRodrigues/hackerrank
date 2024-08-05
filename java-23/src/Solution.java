@@ -25,4 +25,3 @@ public class Solution {
         }
     }
 }
-Valid Username Regular Expression
