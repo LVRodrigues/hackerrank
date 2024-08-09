@@ -71,6 +71,9 @@
 		},
 		{
 			"path": "java-24"
+		},
+		{
+			"path": "java-25"
 		}
 	],
 	"settings": {}
