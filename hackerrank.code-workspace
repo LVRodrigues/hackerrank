@@ -80,6 +80,9 @@
 		},
 		{
 			"path": "java-27"
+		},
+		{
+			"path": "java-28"
 		}
 	],
 	"settings": {}
