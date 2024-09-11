@@ -9,7 +9,7 @@
             "name": "Solution",
             "request": "launch",
             "mainClass": "Solution",
-            "projectName": "java-30_8e020af5",
+            "projectName": "java-31_8e020af6",
             "args": ["<", "${workspaceFolder}/params.txt"],
             "vmArgs": [
                 "-Duser.language=en",
