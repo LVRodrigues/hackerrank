@@ -95,6 +95,9 @@
 		},
 		{
 			"path": "java-32"
+		},
+		{
+			"path": "java-33"
 		}
 	],
 	"settings": {}
