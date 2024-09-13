@@ -110,6 +110,9 @@
 		},
 		{
 			"path": "java-37"
+		},
+		{
+			"path": "java-38"
 		}
 	],
 	"settings": {}
