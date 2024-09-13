@@ -116,6 +116,9 @@
 		},
 		{
 			"path": "java-39"
+		},
+		{
+			"path": "java-40"
 		}
 	],
 	"settings": {}
