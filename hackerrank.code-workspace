@@ -122,6 +122,9 @@
 		},
 		{
 			"path": "java-41"
+		},
+		{
+			"path": "java-42"
 		}
 	],
 	"settings": {}
