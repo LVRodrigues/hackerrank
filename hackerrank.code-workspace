@@ -158,6 +158,9 @@
 		},
 		{
 			"path": "java-53"
+		},
+		{
+			"path": "java-54"
 		}
 	],
 	"settings": {}
